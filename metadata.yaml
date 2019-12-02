@@ -1,5 +1,8 @@
 _repo: Catalogue-of-Standard-Recitations-Numbers-19-34-For-School-Lyceum-Parlor-and-Other-Entertainm__60781
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60781-h/images/cover.jpg
 creator:
   author:
     agent_name: M.J. Ivers & Co.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51137'
     url: http://www.gutenberg.org/2009/agents/51137
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60781#Catalogue-of-Standard-Recitations-Numbers-19-34-For-School-Lyceum-Parlor-and-Other-Entertainm_
 gutenberg_issued: '2019-11-25'
 gutenberg_type: Text
 identifiers:
